@@ -993,7 +993,7 @@ footer {
   .reservation .shape {
     display: block;
     position: absolute;
-    right: 100px;
+    right: 0px;
     z-index: -1;
     opacity: 0.2;
   }
