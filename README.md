@@ -1,4 +1,4 @@
-# Food Ordering and Restaurant Reservation Website 🍽️
+# 🚀 Food Ordering and Restaurant Reservation Website 🍽️
 
 ## Overview
 A fully functional website that allows users to seamlessly **order food** and **make restaurant reservations** online. Built with **HTML**, **CSS**, and **JavaScript**, this platform enhances the dining experience with an intuitive interface, smooth user flow, and responsive design, ensuring a great experience on any device.
